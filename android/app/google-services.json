@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "116435489303",
+    "project_id": "fluttershare-ade3f",
+    "storage_bucket": "fluttershare-ade3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116435489303:android:d0b6f51f99b07f89cbc252",
+        "android_client_info": {
+          "package_name": "com.safari.fluttershare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116435489303-qi7evcm2vff4f46mhg7lvghp77vcrif1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDorOeP-o3Eq5C_kVmkST_nYZPgGOnprbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116435489303-qi7evcm2vff4f46mhg7lvghp77vcrif1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
